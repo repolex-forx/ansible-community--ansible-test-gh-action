@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "ansible-test-gh-action",
+  "versions": [
+    {
+      "commit": "dc5c5bfa02fa4b6633e6175e65e9f8f53088180a",
+      "parsed_at": "2026-11-06T15:48:50.221553+00:00",
+      "filetree": "filetree/dc5c5bfa02fa4b6633e6175e65e9f8f53088180a.nq.gz",
+      "blobs": [
+        "blob/3cbef9e9f2a4a0e120764dd9767cf87110315fbe.nq.gz",
+        "blob/0291fa4fa37df22e4a4c5cea87e2236f0de33819.nq.gz",
+        "blob/162afceb142598d6603176e82f1d8ecbbfc06b36.nq.gz",
+        "blob/3b3699f214fb31e98d063314a45e760d7f39cfcd.nq.gz",
+        "blob/16805ba93821b975b710abd88e78c3d793a478b5.nq.gz",
+        "blob/68bf02c49f131e9434b18175116f2a39e2d25059.nq.gz",
+        "blob/a6dafcf8cd8b039530128f336ff3a42ce1fd5fec.nq.gz",
+        "blob/16be8f2193eadbfc2e56f06968aca064a36735a2.nq.gz",
+        "blob/20f0efddd89eda21b5c87ee33f2e74595d0cd69f.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz",
+        "blob/c9b431a97bdabf010ad05f5194aaadad516416aa.nq.gz",
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/10148d418add81e94ba11b911193d711a8bad437.nq.gz",
+        "blob/ac8aa7fd536668a5aa2122944079959d306e2504.nq.gz",
+        "blob/fa3842119ca9884d0e369f19a96c3b35739db533.nq.gz",
+        "blob/b69e158533b28f7447f414b13b42d9d177c45dfd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
